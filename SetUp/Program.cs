@@ -14,6 +14,7 @@ public class test
         string Test = "Look at this!";
 
         System.Console.WriteLine(Test);
+        System.Console.WriteLine(Test);
     }
 
 }
