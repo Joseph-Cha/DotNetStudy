@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\virnect\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\virnect\\.nuget\\packages"
+    ]
+  }
+}
