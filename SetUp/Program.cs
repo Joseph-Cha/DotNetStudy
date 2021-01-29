@@ -11,7 +11,9 @@ public class test
 
     public void Alpha()
     {
-        
+        string Test = "Look at this!";
+
+        System.Console.WriteLine(Test);
     }
 
 }
