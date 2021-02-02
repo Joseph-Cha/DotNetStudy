@@ -1,20 +1,26 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 
 public class test
 {
-    static void Main()
+    static void Main_test()
     {
-        System.Console.WriteLine("Hello, World");
-    }
+        string[] names = {"닷넷 코리아", "비주얼 아카데미"};
 
-    public void Alpha()
-    {
-        string Test = "Look at this!";
+        foreach (var item in names)
+        {
+            System.Console.WriteLine(item);
+        }
 
-        System.Console.WriteLine(Test);
-        System.Console.WriteLine(Test);
-    }
+        IEnumerator List = names.GetEnumerator();
 
+        while(List.MoveNext())
+        {
+            System.Console.WriteLine(List.Current);
+            
+        }
+
+    }   
 }
