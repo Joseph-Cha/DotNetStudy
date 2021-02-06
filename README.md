@@ -3,6 +3,6 @@
 
 ## MS Learn Blazor 튜토리얼
  - MS Learn에서 기초 튜토리얼 작업 완료
- - [Blazor WebAssembly 및 Visual Studio Code를 사용하여 웹앱 빌드](https://docs.microsoft.com/ko-kr/learn/modules/build-blazor-webassembly-visual-studio-code)
+ - MS learn 링크 : [Blazor WebAssembly 및 Visual Studio Code를 사용하여 웹앱 빌드](https://docs.microsoft.com/ko-kr/learn/modules/build-blazor-webassembly-visual-studio-code)
  - [완성](https://github.com/Joseph-Cha/DotNetStudy/tree/master/ASP.netCore_Tutorial_RazorWebApp)
 
