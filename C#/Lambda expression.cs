@@ -4,22 +4,22 @@ namespace ConsoleApp1
 {
     class Program
     {
-        int Add(int a, int b)
+        static int AddMethodUsedOneMoreTime(int a, int b)
         {
             return a + b;
         }
 
         static int Multiply()
         {
-            int value = Add(1, 2);
+            int value = AddMethodUsedOneMoreTime(1, 2);
 
             return value * 2;
         }
 
 
-        static int Multiply(Func<int, int, int> Add2)
+        static int Multiply(Func<int, int, int> AddMethodUsedOneTime)
         {
-            return Add2(1,2) * 2;
+            return AddMethodUsedOneTime(1,2) * 2;
         }
 
 
