@@ -1,7 +1,6 @@
 ## 정리 
 
 ### 1. 정보 클래스
-\
 IPAddress, IPHostEntry, IPEndPoint,Dns는 클래스이지만 구조체 정도 수준
 서로 연관
 
@@ -12,7 +11,6 @@ IPAddress : 단순 ip\
 IPAddress.Parse("ip주소") : IPAddress에 ip 주소를 저장
 
 ### 2. 연결 클래스
-\
 **Socket 기반(Winsock)**
 - TCP
    1. TcpListner : 서버
