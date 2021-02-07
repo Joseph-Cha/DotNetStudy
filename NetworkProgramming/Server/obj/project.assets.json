@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\C#.csproj",
-      "projectName": "C#",
-      "projectPath": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\C#.csproj",
+      "projectUniqueName": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\Server.csproj",
+      "projectName": "Server",
+      "projectPath": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Joseph.C\\.nuget\\packages\\",
       "outputPath": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joseph.C\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Joseph.C\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

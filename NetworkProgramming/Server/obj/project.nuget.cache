@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKqa1EKpK5D16gUqqXuSnn8I6iqC35gJdrj+8Arb8eoNnOwJnebNUNgTGqNiDdQOrDQfWNY3C1MZJPDi76uSfw==",
+  "dgSpecHash": "snoG8p8eGxjTZQfgZh0MpNKsGkWlJQSjeC5oL9Ec6ts6bwKjXQQK5qm7wAOtN9GakHh/zWPI1AKPANXGYLC36Q==",
   "success": true,
-  "projectFilePath": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\C#.csproj",
+  "projectFilePath": "C:\\Work\\DotNetStudy\\NetworkProgramming\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,16 @@
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\Client.exe
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\Client.deps.json
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\Client.dll
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\ref\Client.dll
+C:\Work\DotNetStudy\NetworkProgramming\Client\bin\Debug\net5.0\Client.pdb
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.csprojAssemblyReference.cache
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.dll
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.pdb
+C:\Work\DotNetStudy\NetworkProgramming\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
