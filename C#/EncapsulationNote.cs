@@ -11,7 +11,7 @@ namespace oop
 
     class EncapsulationNote
     {
-        static void Main()
+        void Main()
         {
             Person person = new Person();
             person.SetName("C#");
