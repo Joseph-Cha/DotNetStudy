@@ -23,11 +23,13 @@ namespace ConsoleApp1
         }
 
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             int x = Multiply(); // return 6
             int y = Multiply((a, b) => a + b); // return 6
             System.Console.WriteLine($"x : {x}, y : {y}");
         }
+
+        
     }
 }
