@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ConsoleApp1
 {
@@ -22,12 +24,17 @@ namespace ConsoleApp1
             return AddMethodUsedOneTime(1,2) * 2;
         }
 
+        delegate int myDelgate(int a, int b);
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             int x = Multiply(); // return 6
-            int y = Multiply((a, b) => a + b); // return 6
+            Func<int, int, int> myFunc = (a, b) => a + b;
+            myDelgate my = new myDelgate(myFunc);
+
+            int y = Multiply(myFunc); // return 6
             System.Console.WriteLine($"x : {x}, y : {y}");
         }
+              
     }
 }

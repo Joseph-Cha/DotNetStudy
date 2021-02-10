@@ -26,7 +26,7 @@ namespace InterfaceFriends
 
     class InterfaceFriends
     {
-        static void Main_test()
+        void Main_test()
         {
             Car cla = new Car();
             cla.Run();
