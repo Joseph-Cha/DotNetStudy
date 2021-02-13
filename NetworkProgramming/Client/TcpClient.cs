@@ -4,7 +4,7 @@ using System.Text;
 
 class TcpClient01
 {
-    static void Main()
+    void Main()
     {
         TcpClient tcpClient = new TcpClient("192.168.219.103", 13);
         if(tcpClient.Connected)

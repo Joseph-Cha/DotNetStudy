@@ -9,7 +9,7 @@ class DNSClass
         IPAddress[] IP = Dns.GetHostAddresses("www.naver.com");
         foreach(IPAddress HostIP in IP)
         {
-            System.Console.WriteLine($"{HostIP}");
+            Console.WriteLine($"{HostIP}");
         }
     }
 }

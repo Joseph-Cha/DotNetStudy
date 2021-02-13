@@ -9,8 +9,8 @@ class IPHostEntryClass
 
         foreach (var ip in HostInfo.AddressList)
         {
-            System.Console.WriteLine($"{ip}");
+            Console.WriteLine($"{ip}");
         }
-        System.Console.WriteLine($"{HostInfo.HostName}");
+        Console.WriteLine($"{HostInfo.HostName}");
     }
 }

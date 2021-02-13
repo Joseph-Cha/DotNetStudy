@@ -8,8 +8,8 @@ public class IPAddress01
     {
         string Address = Console.ReadLine();
         IPAddress IP = IPAddress.Parse(Address);
-        System.Console.WriteLine($"ip : {Address}");
+        Console.WriteLine($"ip : {Address}");
         // IP 정보를 string 타입으로 반환
-        System.Console.WriteLine(IP.ToString());
+        Console.WriteLine(IP.ToString());
     }
 }
