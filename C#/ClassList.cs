@@ -19,7 +19,7 @@ public class MbtiInfo
 
 class ClassList
 {    
-    static void Main()
+    void Main()
     {
         List<MbtiInfo> m_Mbti = new List<MbtiInfo>();
 
