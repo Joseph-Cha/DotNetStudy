@@ -31,7 +31,7 @@ namespace C_
 
     class Program
     {
-        void Main(string[] args)
+        static void Main(string[] args)
         {
             Dictionary<string, Movie> AType = new Dictionary<string, Movie>();
             Dictionary<string, Movie> BType = new Dictionary<string, Movie>();   
