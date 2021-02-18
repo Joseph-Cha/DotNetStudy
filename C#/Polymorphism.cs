@@ -26,7 +26,7 @@ public class Trainer
 
 class PolymorphismDemo
 {
-    static void Main()
+    void Main()
     {
         Animal dog = new Dog();
         System.Console.WriteLine(dog.Cry());
