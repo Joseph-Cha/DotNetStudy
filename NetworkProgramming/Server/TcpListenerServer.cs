@@ -14,6 +14,7 @@ class TcpListenerServer
         Console.WriteLine($"{tcpListener.LocalEndpoint.ToString()}");
         tcpListener.Start();
         Console.WriteLine("대기 상태 시작");
+        // AcceptTcpClient는 클라이어튼가 접속이 되었을 때 TcpClient 객체를 생성한다.
         TcpClient tcpClient = tcpListener.AcceptTcpClient(); // TcpClinet 개체가 생성 => 연결 수락
         Console.WriteLine("대기 상태 종료");
         NetworkStream ns = tcpClient.GetStream();
